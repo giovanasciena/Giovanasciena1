@@ -1,4 +1,4 @@
-# giovanasciena, julio, kettelym, Gabriel Santos
+# giovana, julio, kettelym, Gabriel Santos
 
 - atualmente estamos estudando o novo ensino medio integral Colegio Estadual José Sarmento Filho
 - atualmente estamos aprendendo sobre o **scratch**
